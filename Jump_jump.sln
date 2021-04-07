@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump_jump", "Assembly-CSharp-firstpass.csproj", "{AFCBA436-2683-01AD-0B52-E9D0EF3F5A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump_jump", "Assembly-CSharp.csproj", "{893E8BC4-D4A4-3829-47BC-35F281978F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCBA436-2683-01AD-0B52-E9D0EF3F5A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCBA436-2683-01AD-0B52-E9D0EF3F5A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCBA436-2683-01AD-0B52-E9D0EF3F5A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCBA436-2683-01AD-0B52-E9D0EF3F5A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{893E8BC4-D4A4-3829-47BC-35F281978F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893E8BC4-D4A4-3829-47BC-35F281978F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893E8BC4-D4A4-3829-47BC-35F281978F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893E8BC4-D4A4-3829-47BC-35F281978F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
